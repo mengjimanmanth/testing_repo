@@ -12,6 +12,7 @@ x = 10
 for i in range(x):
     print(f'Value of x is {i}')
 print("Execution Complete!")
+print("This line is here to show how merging works.")
 
 
 
